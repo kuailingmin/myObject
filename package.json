@@ -1,0 +1,19 @@
+{
+  "name": "vue",
+  "version": "1.0.0",
+  "description": "一个私人练习库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuailingmin/starVue.git"
+  },
+  "author": "star",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuailingmin/starVue/issues"
+  },
+  "homepage": "https://github.com/kuailingmin/starVue#readme"
+}
